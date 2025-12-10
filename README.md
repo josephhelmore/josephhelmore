@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**josephhelmore/josephhelmore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Here are a few things about me... 
 
-Here are some ideas to get you started:
+I decided to change my career path from Team Leadership in Sporting Environments to become a software developer.
+To do this, I enrolled in a [Northcoders}(https://www.northcoders.com) bootcamp where myself and a group of other students worked on learning the tech to become full-stack devs. We have all recently graduated with our own individual [projects](https://curious-meringue-981ef5.netlify.app) and a final [group project](https://breen-team-fe.vercel.app). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of coding I am an avid sports person, focussed mainly on Climbing and Cycling.
+
+# Current languages and techs;
+- Css
+- Javascript
+- HTML
+- Drizzle ORM
+- Node.js
+- React
+
+# Currently learning;
+- Tailwind
+- Typescript + Next.js
+
